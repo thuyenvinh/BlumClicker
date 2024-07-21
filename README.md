@@ -1,55 +1,23 @@
-# Blum Auto Clicker
+Blum Auto Clicker
+Về dự án
+Blum Auto Clicker là một chương trình được thiết kế để tự động hóa trò chơi BLum. Chương trình mô phỏng các hành động của chuột, giúp người dùng tự động chơi trò chơi và cải thiện kết quả của họ.
+Bắt đầu: https://t.me/BlumCryptoBot/app?startapp=ref_tgXDajsgLo
+Tính năng
+Khởi động và dừng bot:
+Cài đặt chụp hình:
+Tự động khởi động trò chơi mới:
+Quan trọng!
+Tập tin BlumClickWinForm.exe là tập tin thực thi và cần được tải xuống và chạy để chương trình hoạt động.
 
-## О проекте
-Blum Auto Clicker - это программа, предназначенная для автоматизации игры BLum. Программа имитирует действия мыши, помогая пользователю автоматически играть в игру и улучшать свои результаты. 
+Về tác giả
+Xin chào! Tôi là Wixon hay còn gọi là CoderWorker, nhà phát triển của phần mềm auto clicker này. Bạn có thể liên hệ với tôi qua Telegram cho các câu hỏi hoặc đề xuất.
 
-### Функциональность
-- **Запуск и остановка бота:** 
-- **Настройки захвата изображения:** 
-- **Автоматический запуск новой игры:** 
+Tuyên bố miễn trừ trách nhiệm
+CHÚ Ý: Sử dụng phần mềm auto clicker có thể vi phạm quy định của trò chơi BLum, và có thể dẫn đến việc bị cấm. Tôi không chịu trách nhiệm về việc sử dụng chương trình này. Bạn sử dụng nó dưới sự rủi ro của riêng mình.
 
-### Важно!
-Файл `BlumClickWinForm.exe` является исполняемым и его нужно скачивать и запускать для работы программы.
+Cài đặt và sử dụng
+Tải BlumClickWinForm.exe từ kho lưu trữ.
+Làm theo các hướng dẫn trong ứng dụng, có thể nhận được bằng cách nhấn nút trợ giúp.
+Chúc bạn tận hưởng trò chơi tự động và cải thiện kết quả!
 
-## Об авторе
-Привет! Я - Wixon aka CoderWorker, разработчик этого автокликера. Вы можете связаться со мной в [Telegram](https://t.me/CoderWorker) для вопросов или предложений.
-
-## Дисклеймер
-**ВНИМАНИЕ:** Использование автокликеров может быть против правил игры BLum, и за это возможно получение бана. Я не несу ответственности за использование этой программы. Вы используете ее на свой страх и риск.
-
-## Установка и использование
-1. Скачайте `BlumClickWinForm.exe` из репозитория.
-2. Следуйте подсказам в приложении, их можно получить нажав на кнопку помощи.
-
-Наслаждайтесь автоматической игрой и улучшенными результатами!
-
----
-© 2024 Wixon aka CoderWorker. Все права защищены.
-
-# Blum Auto Clicker
-
-## About the Project
-Blum Auto Clicker is a program designed to automate the BLum game. The program simulates mouse actions, helping the user to automatically play the game and improve their performance.
-
-### Features
-- **Start and Stop the Bot:** 
-- **Image Capture Settings:** 
-- **Automatic Game Restart:** 
-
-### Important!
-The `BlumClickWinForm.exe` file is executable and needs to be downloaded and run to use the program.
-
-## About the Author
-Hi! I'm Wixon aka CoderWorker, the developer of this auto clicker. You can contact me on [Telegram](https://t.me/CoderWorker) for questions or suggestions.
-
-## Disclaimer
-**WARNING:** Using auto clickers may violate the rules of the BLum game and may result in a ban. I am not responsible for the use of this program. Use it at your own risk.
-
-## Installation and Usage
-1. Download `BlumClickWinForm.exe` from the repository.
-2. Follow the prompts in the application, which can be accessed by clicking the help button.
-
-Enjoy automated gameplay and improved results!
-
----
-© 2024 Wixon aka CoderWorker. All rights reserved.
+© 2024 Wixon hay còn gọi là CoderWorker. Bảo lưu mọi quyền.
